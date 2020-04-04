@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 def test_get_hellworld():
 	assert 'hello world' == get_helloworld()
 
